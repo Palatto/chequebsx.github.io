@@ -3,15 +3,15 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */.heading-font{
-font-family:Lobster+Two,Helvetica,Arial,sans-serif;
+font-family:Lobster Two,Helvetica,Arial,sans-serif;
 font-weight:200;
 letter-spacing:1px
 }
 .body-font{
-font-family:Open+Sans,Helvetica,Arial,sans-serif
+font-family:Open Sans,Helvetica,Arial,sans-serif
 }
 .alt-font{
-font-family:Open+Sans,Helvetica,Arial,sans-serif;
+font-family:Open Sans,Helvetica,Arial,sans-serif;
 text-transform:uppercase;
 letter-spacing:2px
 }
@@ -20,11 +20,11 @@ height:100%;
 width:100%
 }
 body{
-font-family:OpenSans,Helvetica,Arial,sans-serif;
+font-family:Open Sans,Helvetica,Arial,sans-serif;
 webkit-tap-highlight-color:#222
 }
 .navbar-default,.navbar-default .navbar-header .navbar-brand,h1,h2,h3,h4,h5,h6{
-font-family:OpenSans,Helvetica,Arial,sans-serif;
+font-family:Open Sans,Helvetica,Arial,sans-serif;
 font-weight:200;
 letter-spacing:1px
 }
@@ -61,7 +61,7 @@ transition:all .35s
 color:#fdcc52
 }
 .btn,.navbar-default .nav>li>a{
-font-family:OpenSans,Helvetica,Arial,sans-serif;
+font-family:Open Sans,Helvetica,Arial,sans-serif;
 text-transform:uppercase;
 letter-spacing:2px
 }
